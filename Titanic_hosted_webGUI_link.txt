@@ -1,0 +1,11 @@
+Name: Jeremiah Bwala
+
+Matric Number: 22CG031843
+
+Machine Learning Algorithm Used:
+
+Model persistence method used (e.g., Joblib or Pickle): Pickle
+
+Live URL of the hosted application:
+
+GitHub repository link:https ://github.com/Anonymousexit/Titanic_survival_prediction-system/blob/main/render.yaml
